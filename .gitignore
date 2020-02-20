@@ -1,0 +1,11 @@
+# test case
+input.txt
+
+# Mac
+.DS_Store
+
+# Win
+Thumbs.db
+
+# IntelliJ
+.idea/
